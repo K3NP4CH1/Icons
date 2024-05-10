@@ -1,1 +1,1 @@
-![Preview1](./blob/main/Salata.PNG)
+![Preview1](./Salata.PNG)
