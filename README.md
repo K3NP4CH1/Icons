@@ -1,1 +1,1 @@
-![Preview1](./Salata.PNG)
+![Preview1](./Salata.png)
