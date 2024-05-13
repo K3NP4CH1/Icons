@@ -1,1 +1,1 @@
-![Preview1](./Salata.png)
+![Preview1](./Salata.ico)
